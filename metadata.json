@@ -1,0 +1,6 @@
+{
+  "name": "Bulls&Bears",
+  "description": "Institutional intelligence for everyday investors. AI-powered financial portfolio and market terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
